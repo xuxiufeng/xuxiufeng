@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xuxiufeng
 - 👀 I’m interested in Stochastic Processes
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Renewal Process and Markov chain.
 - 📫 You can reach me via xiufeng.xu@utdallas.edu
 
 <!---
