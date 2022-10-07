@@ -2,7 +2,7 @@
 - 👀 I’m interested in Stochastic Processes
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Renewal Process and Markov chain.
-- 📫 You can reach me via xiufeng.xu@utdallas.edu
+- 📫 You could reach me via xiufeng.xu@utdallas.edu
 
 <!---
 xuxiufeng/xuxiufeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
